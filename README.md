@@ -1,5 +1,5 @@
 # cat
-To teach my daughter to make something beyond Caterpillar
+To teach my kids to make something beyond Caterpillar
 
 Objective
 -----
