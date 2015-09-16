@@ -4,7 +4,6 @@ To teach my kids to make something beyond Caterpillar
 Objective
 -----
 - Learning by doing.
-- Show the power of geek dad.
 
 Key Result
 -----
