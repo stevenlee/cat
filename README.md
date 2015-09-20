@@ -10,7 +10,7 @@ Key Result
 - Know the physics, such as F = P * A, Torque = F * d ...
 - Use agile development skills
 - Make something cool
- 
+
 Progress
 -----
 Week 0:
