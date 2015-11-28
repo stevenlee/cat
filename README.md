@@ -1,5 +1,5 @@
 # cat
-To teach my kids to make something beyond Caterpillar
+做個挖土機模型
 
 Objective
 -----
@@ -8,15 +8,15 @@ Objective
 Key Result
 -----
 - Know the physics, such as F = P * A, Torque = F * d ...
-- Use agile development skills
+- 使用敏捷式開發的精神
 - Make something cool
 
 Progress
 -----
-Week 0:
-  Setup Arduino IDE on a mac. We tried some sample code like "blink" on Arduino Uno.
+Sprint 1
+  - 用大中小針筒做了力量與壓力的實驗
+  - 用Arduino做了一個旋轉平台，用可變電阻控制伺服馬達的旋轉角度
 
-Week 1:
-  We bought small/middle/big syringes, connect them together and try to feel the physic law F = P * A
-
-Week 2:
+Sprint 2
+  - 設計挖土機機構：需求、限制先想，再並用軟體模擬它的運動
+  - 平台的設計：由需求、限制、材料等面向去思考
